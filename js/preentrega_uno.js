@@ -15,7 +15,7 @@ nota3 = prompt ('ingrese nota1')
 suma = nota1 + nota2 + nota3
 prom = suma/3
 
-console.log ('el promedio es: ' + prom)
+alert ('el promedio es: ' + prom)
 
 
 
